@@ -1,5 +1,5 @@
 .u-section-1-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/artem-makarov-Oae3F7v6h5U-unsplash.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/artem-makarov-Oae3F7v6h5U-unsplash.jpg");
   background-position: 50% 50%;
 }
 
@@ -10,17 +10,13 @@
 .u-section-1-1 .u-text-1 {
   animation-duration: 1000ms;
   text-transform: uppercase;
-  margin: 105px 378px 60px;
+  width: 421px;
+  margin: 128px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1-1 .u-sheet-1 {
     min-height: 660px;
-  }
-
-  .u-section-1-1 .u-text-1 {
-    margin-left: 278px;
-    margin-right: 278px;
   }
 }
 
@@ -28,32 +24,22 @@
   .u-section-1-1 .u-sheet-1 {
     min-height: 506px;
   }
-
-  .u-section-1-1 .u-text-1 {
-    margin-left: 168px;
-    margin-right: 168px;
-  }
 }
 
 @media (max-width: 767px) {
   .u-section-1-1 .u-sheet-1 {
     min-height: 380px;
   }
-
-  .u-section-1-1 .u-text-1 {
-    margin-left: 78px;
-    margin-right: 78px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 287px;
+    min-height: 504px;
   }
 
   .u-section-1-1 .u-text-1 {
-    margin-left: 0;
-    margin-right: 0;
+    width: 340px;
+    margin-bottom: 0;
   }
 }.u-section-1-2 {
   background-image: none;
@@ -64,7 +50,7 @@
 }
 
 .u-section-1-2 .u-layout-wrap-1 {
-  margin-top: 70px;
+  margin-top: 88px;
   margin-bottom: 60px;
 }
 
@@ -80,11 +66,11 @@
   font-weight: normal;
   font-size: 4.5rem;
   animation-duration: 1000ms;
-  margin: 0;
+  margin: 50px 0 0;
 }
 
 .u-section-1-2 .u-text-2 {
-  margin: 14px 0 0;
+  margin: 24px 0 0;
 }
 
 .u-section-1-2 .u-text-3 {
@@ -93,8 +79,9 @@
 
 .u-section-1-2 .u-image-1 {
   min-height: 639px;
-  background-image: url("images/580b585b2edbce24c47b29e8.png");
+  background-image: url("images/cd77d5048b7a62bede17328a1d0473e7f1ec5457a0882a90e33200b89036ce371f7c990b0bd78b320a487854db01c650701afc24d1c43620bda87b_1280.jpg");
   background-position: 50% 50%;
+  animation-duration: 1000ms;
 }
 
 .u-section-1-2 .u-container-layout-2 {
@@ -164,7 +151,7 @@
 
 @media (max-width: 575px) {
   .u-section-1-2 .u-sheet-1 {
-    min-height: 500px;
+    min-height: 504px;
   }
 
   .u-section-1-2 .u-image-1 {
@@ -179,7 +166,7 @@
 }
 
 .u-section-1-3 .u-layout-wrap-1 {
-  margin-top: 71px;
+  margin-top: 60px;
   margin-bottom: 60px;
 }
 
@@ -195,11 +182,11 @@
   font-weight: normal;
   font-size: 4.5rem;
   animation-duration: 1000ms;
-  margin: 0;
+  margin: -6px 0 0;
 }
 
 .u-section-1-3 .u-text-2 {
-  margin: 9px -30px 0 0;
+  margin: 15px -30px 0 0;
 }
 
 .u-section-1-3 .u-text-3 {
@@ -208,7 +195,7 @@
 
 .u-section-1-3 .u-image-1 {
   min-height: 628px;
-  background-image: url("images/28055832_10155546073092144_61845717402197686_n-removebg-preview.png");
+  background-image: url("images/trier-london.jpeg");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
@@ -298,7 +285,7 @@
 
 @media (max-width: 575px) {
   .u-section-1-3 .u-sheet-1 {
-    min-height: 500px;
+    min-height: 504px;
   }
 
   .u-section-1-3 .u-text-1 {
